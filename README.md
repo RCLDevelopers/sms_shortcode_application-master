@@ -1,6 +1,6 @@
 # PHP package for SMS Shortcode
 
-Hi Guys, this is a PHP package for an SMS shortcode application such as sending admission number to a shortcode such as 25551.An SMS message is then sent to the users handset through the `Africa's Talking` API.This is developed on sandbox (testing) mode. To go live contact `Africa's Talking Ltd` on https://www.africastalking.com/contact.
+Hi Guys, this is a PHP package for an SMS shortcode application such as sending admission number to a shortcode such as 25551.An SMS message is then sent to the users handset through the `Africa's Talking` API.This is developed on sandbox (testing) mode. To go live contact `Zangtics Digital` on https://www.zangticsdigital.com/.
 
 ## Prerequisites
 
